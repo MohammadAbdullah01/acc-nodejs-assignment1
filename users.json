@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "salman"
+    },
+    {
+        "id": 2,
+        "name": "ashik",
+        "address": "mymensingh"
+    },
+    {
+        "id": 10,
+        "name": "salman"
+    },
+    {
+        "id": 10,
+        "name": "abdullah"
+    },
+    {
+        "id": 21,
+        "address": "dhaka"
+    }
+]
