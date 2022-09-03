@@ -33,6 +33,7 @@ app.post('/user/save', (req, res) => {
     fs.writeFile('users.json', JSON.stringify(allUsers), () => {
         console.log('success')
     })
+    res.send("success")
 })
 
 //update a user
